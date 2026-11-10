@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="ISA - Intelligent Shopping Assistant">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B8F75"/>
+      <stop offset="1" stop-color="#065B4A"/>
+    </linearGradient>
+    <style>
+      .t{font-family:'Segoe UI',Roboto,Arial,sans-serif}
+      .float{animation:f 5s ease-in-out infinite}
+      @keyframes f{50%{transform:translateY(-8px)}}
+    </style>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <circle cx="1040" cy="60" r="220" fill="#D2F4EC" opacity="0.08"/>
+  <circle cx="1120" cy="330" r="150" fill="#D2F4EC" opacity="0.10"/>
+  <g class="float" transform="translate(850,70)">
+    <path d="M110 20 L70 90 H150 Z" fill="none" stroke="#D2F4EC" stroke-width="16" stroke-linejoin="round" transform="translate(0,-10)"/>
+    <path d="M10 90 H210 L185 190 Q182 205 168 205 H52 Q38 205 35 190 Z" fill="none" stroke="#D2F4EC" stroke-width="16" stroke-linejoin="round"/>
+    <circle cx="110" cy="150" r="16" fill="#D2F4EC"/>
+  </g>
+  <text x="70" y="150" class="t" font-size="96" font-weight="800" fill="#FFFFFF" letter-spacing="4">ISA</text>
+  <text x="70" y="205" class="t" font-size="34" font-weight="600" fill="#D2F4EC">Intelligent Shopping Assistant</text>
+  <text x="70" y="262" class="t" font-size="24" fill="#D2F4EC" opacity="0.9">Prices from 6 chains' brochures, in one place.</text>
+  <text x="70" y="298" class="t" font-size="24" fill="#D2F4EC" opacity="0.9">Make a list. See where it's cheapest.</text>
+</svg>
