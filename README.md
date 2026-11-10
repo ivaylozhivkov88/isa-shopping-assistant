@@ -10,6 +10,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-0B8F75?style=for-the-badge&logo=firebase&logoColor=white)
 ![Languages](https://img.shields.io/badge/BG_%7C_EN-D2F4EC?style=for-the-badge&labelColor=0B8F75&color=D2F4EC)
 
+<br/>
+
+<a href="https://play.google.com/store/apps/details?id=com.isa.shop"><img src="https://img.shields.io/badge/GET_IT_ON-Google_Play-0B8F75?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" alt="Google_Play"/></a> <a href="https://izstudio.web.app/en/apps/isa/"><img src="https://img.shields.io/badge/LEARN_MORE-Website-0B8F75?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Website"/></a>
+
+
 **An Android app that compares grocery prices across Bulgaria's biggest retail chains.**
 
 </div>
